@@ -13,8 +13,8 @@
   --mention-foreground: var(--main-color);
 
   /* 1. when pinged, background color  */
-  --background-mentioned: #7542f5;
-  --background-mentioned-hover: #cc99ff;
+  --background-mentioned: #6338cf;
+  --background-mentioned-hover: #3f2580;
 
   /* 2. color of message you're replying to */
   --background-message-highlight: var(--background-secondary-alt);
