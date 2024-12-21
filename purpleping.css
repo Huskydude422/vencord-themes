@@ -14,7 +14,7 @@
 
   /* 1. when pinged, background color  */
   --background-mentioned: #6338cf;
-  --background-mentioned-hover: #3f2580;
+  --background-mentioned-hover: #211442;
 
   /* 2. color of message you're replying to */
   --background-message-highlight: var(--background-secondary-alt);
