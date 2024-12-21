@@ -1,0 +1,26 @@
+/* Cabbage Theme made by NYRI4*/
+:root {
+  --main-color: #7e55c9;
+}
+
+.theme-dark {
+  /* BGs */
+
+  /* 1. when mentioning a channel bg color */
+  --mention-background: var(--background-mentioned);
+
+  /* 1. when pinged, foreground color */
+  --mention-foreground: var(--main-color);
+
+  /* 1. when pinged, background color  */
+  --background-mentioned: #400683;
+  --background-mentioned-hover: #cc99ff;
+
+  /* 2. color of message you're replying to */
+  --background-message-highlight: var(--background-secondary-alt);
+
+  /* 2. when hovering over a message you're replying to */
+  --brand-experiment-10a: #26004d;
+
+
+}
