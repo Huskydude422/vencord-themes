@@ -1,6 +1,6 @@
 /* Cabbage Theme made by NYRI4*/
 :root {
-  --main-color: #7e55c9;
+  --main-color: #341d5e;
 }
 
 .theme-dark {
@@ -14,7 +14,7 @@
 
   /* 1. when pinged, background color  */
   --background-mentioned: #6338cf;
-  --background-mentioned-hover: #211442;
+  --background-mentioned-hover: #cc99ff;
 
   /* 2. color of message you're replying to */
   --background-message-highlight: var(--background-secondary-alt);
